@@ -2,22 +2,6 @@
 
 > An end-to-end Natural Language Processing (NLP) project that classifies internship feedback as \*\*Positive\*\*, \*\*Neutral\*\*, or \*\*Negative\*\* using Python and VADER Sentiment Analysis.
 
-
-
-\---
-
-## Table of Contents
-
-* [Overview](#-overview)
-* [Objectives](#-objectives)
-* [Dataset](#-dataset)
-* [Tech Stack](#-tech-stack)
-* [Project Structure](#-project-structure)
-* [How to Run](#-how-to-run)
-* [Results \& Visualizations](#-results--visualizations)
-* [Key Learnings](#-key-learnings)
-* [Author](#-author)
-
 \---
 
 ## Overview
@@ -160,11 +144,4 @@ And a separate **histogram** showing the distribution of VADER compound scores a
 **Ayna Khan**
 Data Analyst Intern — Internee.pk
 
-\---
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-\---
 
