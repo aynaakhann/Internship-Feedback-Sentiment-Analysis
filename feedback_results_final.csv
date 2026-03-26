@@ -1,0 +1,121 @@
+feedback_id,feedback_text,source,intern_department,internship_month,compound_score,sentiment
+1,The mentorship I received was absolutely outstanding and transformed my professional skills.,Survey,Data Science,January,0.6478,Positive
+2,I learned more in these 3 months than in my entire academic career so far.,Survey,Software Engineering,February,0,Neutral
+3,My supervisor was always available and gave constructive feedback every single week.,Survey,Marketing,January,0,Neutral
+4,The projects assigned were real and impactful which made the experience incredibly rewarding.,Survey,Data Science,March,0.5709,Positive
+5,I felt like a genuine team member and not just an intern fetching coffee.,Survey,Finance,February,0.3612,Positive
+6,The company culture is warm welcoming and truly supports learning and growth.,Survey,HR,March,0.8957,Positive
+7,I improved my Python and machine learning skills tremendously during this internship.,Survey,Data Science,January,0.4767,Positive
+8,The structured onboarding process made me feel comfortable from day one.,Survey,Software Engineering,February,0.5106,Positive
+9,Working on live client projects gave me exposure I could never get in university.,Survey,Marketing,March,0,Neutral
+10,I would 100 percent recommend this internship program to every student I know.,Survey,Finance,January,0.3612,Positive
+11,The tasks were completely unrelated to my field of study and felt like a waste of time.,Survey,HR,February,-0.0772,Negative
+12,I received zero guidance from my supervisor for the first two weeks.,Survey,Data Science,March,0,Neutral
+13,The communication from management was extremely poor and confusing throughout.,Survey,Software Engineering,January,-0.6764,Negative
+14,I felt ignored and undervalued during my entire time at this organization.,Survey,Marketing,February,-0.3182,Negative
+15,The stipend was insultingly low compared to the workload they expected.,Survey,Finance,March,-0.6597,Negative
+16,There was no structured learning plan and I had to figure everything out alone.,Survey,Data Science,January,-0.4939,Negative
+17,My feedback and suggestions were never acknowledged or even considered.,Survey,HR,February,0,Neutral
+18,The internship was chaotic unorganized and left me more confused than when I started.,Survey,Software Engineering,March,-0.6997,Negative
+19,I was given tasks that any random person could do with no skill development at all.,Survey,Marketing,January,-0.296,Negative
+20,This has honestly been the worst professional experience of my career so far.,Survey,Finance,February,-0.2732,Negative
+21,The experience was average nothing particularly exciting but nothing terrible either.,Survey,Data Science,March,0.3418,Positive
+22,Some days were productive and others felt like I was just filling time.,Survey,Software Engineering,January,0.3612,Positive
+23,The internship met my basic expectations but did not exceed them in any way.,Survey,Marketing,February,0,Neutral
+24,Work was okay but the environment could have been more engaging and stimulating.,Survey,Finance,March,0.8495,Positive
+25,I learned a few new skills but the pace was slower than I would have preferred.,Survey,HR,January,0,Neutral
+26,The team was decent though collaboration could have been better organized.,Survey,Data Science,February,0.4404,Positive
+27,Overall a standard internship experience with room for significant improvement.,Survey,Software Engineering,March,0.5859,Positive
+28,The projects were fine but lacked the depth I was hoping for as a learning opportunity.,Survey,Marketing,January,0.8316,Positive
+29,Neither impressed nor disappointed with this internship if I am being completely honest.,Survey,Finance,February,-0.0286,Neutral
+30,It was a decent start to my career but I expected more mentorship and direction.,Survey,HR,March,0,Neutral
+31,Absolutely loved the collaborative atmosphere and the chance to work on AI projects.,Comment,Data Science,January,0.7346,Positive
+32,My technical skills grew beyond what I imagined possible in just three months.,Comment,Software Engineering,February,0,Neutral
+33,The team celebrated every small win which kept my motivation incredibly high.,Comment,Marketing,March,0.872,Positive
+34,I published my first data dashboard that is now used by the actual sales team.,Comment,Finance,January,0,Neutral
+35,The internship gave me real confidence to pursue a full-time career in tech.,Comment,Data Science,February,0.5106,Positive
+36,Best decision I ever made was joining this internship program this semester.,Comment,HR,March,0.6369,Positive
+37,I was trusted with responsibilities that even junior full-time employees did not have.,Comment,Software Engineering,January,0.4767,Positive
+38,The skills I built here directly helped me ace three job interviews afterwards.,Comment,Marketing,February,0,Neutral
+39,The amount of support and encouragement from seniors was truly heartwarming.,Comment,Finance,March,0.8885,Positive
+40,I left every day feeling proud of what I accomplished which says a lot.,Comment,Data Science,January,0.7579,Positive
+41,Nobody explained what the goals of the internship were even after I asked multiple times.,Comment,Software Engineering,February,0,Neutral
+42,I spent most of my time doing data entry which had nothing to do with my major.,Comment,Marketing,March,0,Neutral
+43,The supervisor was dismissive and made me feel stupid for asking basic questions.,Comment,Finance,January,-0.5267,Negative
+44,I was promised a certificate and recommendation letter but neither was delivered.,Comment,HR,February,0.1901,Positive
+45,The workplace was toxic with a lot of internal politics that affected interns too.,Comment,Data Science,March,-0.1531,Negative
+46,I struggled to stay motivated because the work had no clear purpose or direction.,Comment,Software Engineering,January,0.25,Positive
+47,The management kept changing project requirements which made everything frustrating.,Comment,Marketing,February,-0.4404,Negative
+48,I regret choosing this internship over the other offer I had at the time.,Comment,Finance,March,-0.4215,Negative
+49,There was blatant favoritism and some interns were given far better opportunities.,Comment,HR,January,0.7351,Positive
+50,The internship felt like free labor with no real investment in our development.,Comment,Data Science,February,0.5574,Positive
+51,The work was manageable and I got to try out a few tools I had not used before.,Comment,Software Engineering,March,0,Neutral
+52,My supervisor was okay but our one-on-one meetings could have been more frequent.,Comment,Marketing,January,0.1154,Positive
+53,The internship program had good intentions but execution was inconsistent.,Comment,Finance,February,0.2382,Positive
+54,Some projects were interesting but others dragged on without clear deliverables.,Comment,HR,March,-0.3018,Negative
+55,I gained moderate experience but expected a more challenging and engaging workload.,Comment,Data Science,January,0.7674,Positive
+56,The team was friendly enough but did not go out of their way to include interns.,Comment,Software Engineering,February,0.2732,Positive
+57,The stipend was fair and the work-life balance was better than I expected honestly.,Comment,Marketing,March,0.802,Positive
+58,There were moments of genuine learning but also long stretches of idle time.,Comment,Finance,January,0,Neutral
+59,The experience was neither transformative nor harmful just comfortably average.,Comment,HR,February,-0.3252,Negative
+60,I appreciated the flexibility but sometimes lacked the structure needed to grow.,Comment,Data Science,March,0.431,Positive
+61,This internship completely changed how I see data and its power to drive decisions.,Social Media,Software Engineering,January,0,Neutral
+62,Shoutout to my amazing mentor who always had time to answer my endless questions.,Social Media,Marketing,February,0.5859,Positive
+63,I came in knowing basic Excel and left knowing Python SQL and Tableau.,Social Media,Finance,March,0.4588,Positive
+64,The Friday knowledge sharing sessions were my absolute favorite part of the week.,Social Media,Data Science,January,0.7003,Positive
+65,I have three job offers right now and all the credit goes to what I learned here.,Social Media,HR,February,0.3818,Positive
+66,The internship felt like a real job and that professional exposure was priceless.,Social Media,Software Engineering,March,0.3612,Positive
+67,Got my first ever LinkedIn recommendation from a senior data scientist today.,Social Media,Marketing,January,0,Neutral
+68,The team pushed me to present my work to actual stakeholders which was terrifying but amazing.,Social Media,Finance,February,0.5927,Positive
+69,I built three portfolio projects during this internship that interviewers love asking about.,Social Media,Data Science,March,0.6369,Positive
+70,My confidence in technical interviews skyrocketed after this internship experience.,Social Media,HR,January,0.5106,Positive
+71,Wasted three months doing tasks that an intern from five years ago probably also did.,Social Media,Software Engineering,February,-0.4939,Negative
+72,The supervisor never showed up to any of our scheduled meetings which was disrespectful.,Social Media,Marketing,March,0,Neutral
+73,I was treated like a free resource not a future professional they were investing in.,Social Media,Finance,January,0.7003,Positive
+74,The program is severely outdated and does not reflect current industry standards at all.,Social Media,Data Science,February,-0.4588,Negative
+75,I gained no new skills and my resume looks exactly the same as it did before joining.,Social Media,HR,March,0.1027,Positive
+76,The internship description was misleading and the actual work was completely different.,Social Media,Software Engineering,January,-0.4019,Negative
+77,Senior employees were dismissive and made it clear that interns were not a priority.,Social Media,Marketing,February,0.3818,Positive
+78,I left this internship feeling less confident than when I joined which says everything.,Social Media,Finance,March,0.5279,Positive
+79,The lack of feedback made it impossible to know if I was doing well or poorly.,Social Media,Data Science,January,-0.0516,Negative
+80,I would strongly warn any student against applying to this internship program.,Social Media,HR,February,0.1779,Positive
+81,The internship was decent and the team was professional if a bit distant at times.,Social Media,Software Engineering,March,0,Neutral
+82,I appreciated having some real responsibilities even if the scope was a bit limited.,Social Media,Marketing,January,0.34,Positive
+83,The experience was okay though the onboarding could have been much better organized.,Social Media,Finance,February,0.5859,Positive
+84,My manager was fairly helpful but the overall program lacked a clear structure.,Social Media,Data Science,March,0.6486,Positive
+85,The work was repetitive at times but the people I met made it worthwhile.,Social Media,HR,January,0.3818,Positive
+86,I would consider applying for a full-time role but I am not fully convinced yet.,Social Media,Software Engineering,February,-0.496,Negative
+87,Some weeks were fantastic and others were slow but that is probably normal.,Social Media,Marketing,March,0.3182,Positive
+88,The internship provided what it promised even if it did not go above and beyond.,Social Media,Finance,January,0.3612,Positive
+89,Reasonable experience for a first internship though more advanced interns may find it lacking.,Social Media,Data Science,February,0.3167,Positive
+90,I learned some things but wished there was more opportunity for creative thinking.,Social Media,HR,March,0.855,Positive
+91,The hands-on machine learning project I completed here is now my top portfolio piece.,Survey,Data Science,January,0.2023,Positive
+92,I was genuinely sad on my last day because I had grown so attached to the team.,Survey,Software Engineering,February,-0.4767,Negative
+93,The exposure to real business problems made me a far more practical thinker.,Survey,Marketing,March,-0.4019,Negative
+94,Every week I was challenged just enough to grow without feeling overwhelmed.,Survey,Finance,January,-0.2306,Negative
+95,The intern community events made networking so easy and genuinely enjoyable.,Survey,Data Science,February,0.7678,Positive
+96,I walked away with skills that I immediately applied in my university final project.,Survey,HR,March,0,Neutral
+97,The quality of feedback I received on my work was exceptional and highly detailed.,Survey,Software Engineering,January,0,Neutral
+98,I was invited to present my findings to the CEO which was a career highlight.,Survey,Marketing,February,0.34,Positive
+99,This program made me realize that data science is exactly the career path I want.,Survey,Finance,March,0.0772,Positive
+100,I cannot thank the organizers enough for creating such a meaningful experience.,Survey,Data Science,January,0.3378,Positive
+101,The internship had no performance review process so I never knew where I stood.,Comment,Software Engineering,February,-0.296,Negative
+102,I was never introduced to other departments which made the experience very narrow.,Comment,Marketing,March,0,Neutral
+103,The projects had no clear deadlines which made it hard to manage my time well.,Comment,Finance,January,0.2732,Positive
+104,I was given conflicting instructions by two supervisors and it caused a lot of stress.,Comment,HR,February,-0.6705,Negative
+105,The intern portal was broken for the first month and nobody fixed it promptly.,Comment,Data Science,March,-0.4767,Negative
+106,There was no exit interview or feedback session at the end which felt dismissive.,Comment,Software Engineering,January,-0.296,Negative
+107,The internship ended abruptly without any closing ceremony or acknowledgment.,Comment,Marketing,February,0,Neutral
+108,I had hoped to build a network but left without a single meaningful connection.,Comment,Finance,March,-0.1638,Negative
+109,The tools we were given access to were outdated and made the work unnecessarily hard.,Comment,HR,January,-0.1027,Negative
+110,The management team clearly had no plan for how to effectively utilize interns.,Comment,Data Science,February,0.5267,Positive
+111,I finished each day knowing exactly what I had accomplished and that felt great.,Comment,Software Engineering,March,0.7906,Positive
+112,The team trusted me with data that actually influenced a business decision made.,Comment,Marketing,January,0.4767,Positive
+113,My supervisor wrote me a glowing LinkedIn recommendation without me even asking.,Comment,Finance,February,0,Neutral
+114,The exposure to agile methodology and sprints was something I could not get elsewhere.,Comment,Data Science,March,0,Neutral
+115,I felt like a professional from week one and that mindset shift was everything.,Comment,HR,January,0.3612,Positive
+116,Working alongside senior data engineers taught me more than any course ever could.,Comment,Software Engineering,February,0,Neutral
+117,The company invested in a Coursera subscription for all interns which was thoughtful.,Comment,Marketing,March,0.3818,Positive
+118,I loved the Friday retrospectives where we openly discussed what worked and what did not.,Comment,Finance,January,0.5994,Positive
+119,The transparency of leadership made me feel safe to ask questions and make mistakes.,Comment,Data Science,February,0.1027,Positive
+120,I am leaving this internship with a job offer and it is the best outcome I could ask for.,Comment,HR,March,0.6369,Positive
